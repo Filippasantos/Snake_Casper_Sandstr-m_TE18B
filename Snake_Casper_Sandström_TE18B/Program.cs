@@ -9,7 +9,7 @@ namespace Snake_Casper_Sandström_TE18B
 {
     class Program
     {
-
+           //Hejsan git
         //Spelet är ganska laggigt men jag vet inte hur jag ska fixa det då jag inte vet nått sätt att ändra på text i konsollen utan att skriva ut all text igen fast ändrad
         //Detta gör att spelet inte är så optimerat men funkar hyfsat på små boards, däremot så att det skapat så att man kan göra ett board hur stort som helst
 
